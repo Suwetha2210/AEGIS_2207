@@ -32,6 +32,7 @@ TECH — Ed25519 · SHA-256 · Merkle Tree · Fast API · HTML/CSS/JS
 © AEGIS Labs · Founded by Suwetha · All Rights Reserved
 
 Suwetha R · B.E. CSE · Chennai Institute of Technology
+
 Machine Learning . AI Security · Agentic Systems · Cryptographic Trust
 
 Trust the agent. Verify everything
